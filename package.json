@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "ManejoDeArchivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productManager.js",
+  "scripts": { },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
